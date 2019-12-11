@@ -323,9 +323,6 @@ footer {
       z-index: 1; }
     header a.navbar-brand#branding {
       padding-left: 0 !important; }
-    header li.nav-item:first-child,
-    header a.nav-link:first-child {
-      padding-top: 0 !important; }
     header li.nav-item:last-child {
       padding-right: 0.9rem !important; }
     header .sticky {
